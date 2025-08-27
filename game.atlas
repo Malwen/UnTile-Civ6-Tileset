@@ -2132,6 +2132,13 @@ TileSets/UnTile/Tiles/Trading post
   orig: 64, 72
   offset: 0, 0
   index: -1
+TileSets/UnTile/Tiles/Trading postT
+  rotate: false
+  xy: 940, 6
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
 TileSets/UnTile/Tiles/Trading post-Pillaged
   rotate: false
   xy: 940, 428
