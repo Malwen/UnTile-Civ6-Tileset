@@ -885,90 +885,90 @@
 	"Snow+Hill+Manufactory": ["Snow","Snow Hill","ManufactoryT"],
 
 	//Trading post
-	"Tundra+Trading post": ["Tundra","Trading postT"],
-	"Tundra+Deer+Trading post": ["Tundra","Deer","Trading postT"],
-	"Tundra+Stone+Trading post": ["Tundra","Stone","Trading postT"],
-	"Tundra+Iron+Trading post": ["Tundra","Iron","Trading postT"],
-	"Tundra+Oil+Trading post": ["Tundra","Oil","Trading postT"],
-	"Tundra+Aluminum+Trading post": ["Tundra","Aluminum","Trading postT"],
-	"Tundra+Uranium+Trading post": ["Tundra","Uranium","Trading postT"],
-	"Tundra+Furs+Trading post": ["Tundra","FursT","Trading postT"],
-	"Tundra+Silver+Trading post": ["Tundra","Silver","Trading postT"],
-	"Tundra+Copper+Trading post": ["Tundra","Copper","Trading postT"],
-	"Tundra+Salt+Trading post": ["Tundra","Salt","Trading postT"],
-	"Tundra+Coal+Trading post": ["Tundra","Coal","Trading postT"],
-	"Tundra+Dyes+Trading post": ["Tundra","Dyes","Trading postT"],
-	"Tundra+Gems+Trading post": ["Tundra","Gems","Trading postT"],
-	"Tundra+Gold Ore+Trading post": ["Tundra","Gold Ore","Trading postT"],
-	"Tundra+Silk+Trading post": ["Tundra","Silk","Trading postT"],
-	"Tundra+Spices+Trading post": ["Tundra","Spices","Trading postT"],
-	"Tundra+Citrus+Trading post": ["Tundra","Citrus","Trading postT"],
-	"Tundra+Truffles+Trading post": ["Tundra","Truffles","Trading postT"],
+	"Tundra+Trading post": ["Tundra","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Deer+Trading post": ["Tundra","Deer","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Stone+Trading post": ["Tundra","Stone","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Iron+Trading post": ["Tundra","Iron","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Oil+Trading post": ["Tundra","Oil","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Aluminum+Trading post": ["Tundra","Aluminum","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Uranium+Trading post": ["Tundra","Uranium","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Furs+Trading post": ["Tundra","FursT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Silver+Trading post": ["Tundra","Silver","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Copper+Trading post": ["Tundra","Copper","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Salt+Trading post": ["Tundra","Salt","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Coal+Trading post": ["Tundra","Coal","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Dyes+Trading post": ["Tundra","Dyes","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Gems+Trading post": ["Tundra","Gems","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Gold Ore+Trading post": ["Tundra","Gold Ore","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Silk+Trading post": ["Tundra","Silk","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Spices+Trading post": ["Tundra","Spices","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Citrus+Trading post": ["Tundra","Citrus","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Truffles+Trading post": ["Tundra","Truffles","Trading post"], // TODO: Restore "Trading postT"
 
-	"Tundra+Hill+Trading post": ["Tundra","Tundra Hill","Trading postT"],
-	"Tundra+Hill+Deer+Trading post": ["Tundra","Tundra Hill","Deer","Trading postT"],
-	"Tundra+Hill+Stone+Trading post": ["Tundra","Tundra Hill","Stone","Trading postT"],
-	"Tundra+Hill+Marble+Trading post": ["Tundra","Tundra Hill","Marble","Trading postT"],
-	"Tundra+Hill+Iron+Trading post": ["Tundra","Tundra Hill","Iron","Trading postT"],
-	"Tundra+Hill+Oil+Trading post": ["Tundra","Tundra Hill","Oil","Trading postT"],
-	"Tundra+Hill+Aluminum+Trading post": ["Tundra","Tundra Hill","Aluminum","Trading postT"],
-	"Tundra+Hill+Uranium+Trading post": ["Tundra","Tundra Hill","Uranium","Trading postT"],
-	"Tundra+Hill+Furs+Trading post": ["Tundra","Tundra Hill","FursT","Trading postT"],
-	"Tundra+Hill+Silver+Trading post": ["Tundra","Tundra Hill","Silver","Trading postT"],
-	"Tundra+Hill+Copper+Trading post": ["Tundra","Tundra Hill","Copper","Trading postT"],
-	"Tundra+Hill+Salt+Trading post": ["Tundra","Tundra Hill","Salt","Trading postT"],
-	"Tundra+Hill+Coal+Trading post": ["Tundra","Tundra Hill","Coal","Trading postT"],
-	"Tundra+Hill+Dyes+Trading post": ["Tundra","Tundra Hill","Dyes","Trading postT"],
-	"Tundra+Hill+Gems+Trading post": ["Tundra","Tundra Hill","Gems","Trading postT"],
-	"Tundra+Hill+Gold Ore+Trading post": ["Tundra","Tundra Hill","Gold Ore","Trading postT"],
-	"Tundra+Hill+Silk+Trading post": ["Tundra","Tundra Hill","Silk","Trading postT"],
-	"Tundra+Hill+Spices+Trading post": ["Tundra","Tundra Hill","Spices","Trading postT"],
-	"Tundra+Hill+Citrus+Trading post": ["Tundra","Tundra Hill","Citrus","Trading postT"],
-	"Tundra+Hill+Truffles+Trading post": ["Tundra","Tundra Hill","Truffles","Trading postT"],
-	"Tundra+Hill+Sheep+Trading post": ["Tundra","Tundra Hill","Sheep","Trading postT"],
-	"Tundra+Hill+Horses+Trading post": ["Tundra","Tundra Hill","Horses","Trading postT"],
+	"Tundra+Hill+Trading post": ["Tundra","Tundra Hill","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Deer+Trading post": ["Tundra","Tundra Hill","Deer","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Stone+Trading post": ["Tundra","Tundra Hill","Stone","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Marble+Trading post": ["Tundra","Tundra Hill","Marble","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Iron+Trading post": ["Tundra","Tundra Hill","Iron","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Oil+Trading post": ["Tundra","Tundra Hill","Oil","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Aluminum+Trading post": ["Tundra","Tundra Hill","Aluminum","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Uranium+Trading post": ["Tundra","Tundra Hill","Uranium","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Furs+Trading post": ["Tundra","Tundra Hill","FursT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Silver+Trading post": ["Tundra","Tundra Hill","Silver","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Copper+Trading post": ["Tundra","Tundra Hill","Copper","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Salt+Trading post": ["Tundra","Tundra Hill","Salt","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Coal+Trading post": ["Tundra","Tundra Hill","Coal","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Dyes+Trading post": ["Tundra","Tundra Hill","Dyes","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Gems+Trading post": ["Tundra","Tundra Hill","Gems","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Gold Ore+Trading post": ["Tundra","Tundra Hill","Gold Ore","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Silk+Trading post": ["Tundra","Tundra Hill","Silk","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Spices+Trading post": ["Tundra","Tundra Hill","Spices","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Citrus+Trading post": ["Tundra","Tundra Hill","Citrus","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Truffles+Trading post": ["Tundra","Tundra Hill","Truffles","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Sheep+Trading post": ["Tundra","Tundra Hill","Sheep","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Horses+Trading post": ["Tundra","Tundra Hill","Horses","Trading post"], // TODO: Restore "Trading postT"
 
-	"Tundra+Forest+Trading post": ["Tundra","ForestT","Trading postT"],
-	"Tundra+Deer+Forest+Trading post": ["Tundra","Deer","ForestT","Trading postT"],
-	"Tundra+Stone+Forest+Trading post": ["Tundra","Stone","ForestT","Trading postT"],
-	"Tundra+Iron+Forest+Trading post": ["Tundra","Iron","ForestT","Trading postT"],
-	"Tundra+Oil+Forest+Trading post": ["Tundra","Oil","ForestT","Trading postT"],
-	"Tundra+Aluminum+Forest+Trading post": ["Tundra","Aluminum","ForestT","Trading postT"],
-	"Tundra+Uranium+Forest+Trading post": ["Tundra","Uranium","ForestT","Trading postT"],
-	"Tundra+Furs+Forest+Trading post": ["Tundra","FursT","ForestT","Trading postT"],
-	"Tundra+Silver+Forest+Trading post": ["Tundra","Silver","ForestT","Trading postT"],
-	"Tundra+Copper+Forest+Trading post": ["Tundra","Copper","ForestT","Trading postT"],
-	"Tundra+Salt+Forest+Trading post": ["Tundra","Salt","ForestT","Trading postT"],
-	"Tundra+Coal+Forest+Trading post": ["Tundra","Coal","ForestT","Trading postT"],
-	"Tundra+Dyes+Forest+Trading post": ["Tundra","Dyes","ForestT","Trading postT"],
-	"Tundra+Gems+Forest+Trading post": ["Tundra","Gems","ForestT","Trading postT"],
-	"Tundra+Gold Ore+Forest+Trading post": ["Tundra","Gold Ore","ForestT","Trading postT"],
-	"Tundra+Silk+Forest+Trading post": ["Tundra","Silk","ForestT","Trading postT"],
-	"Tundra+Spices+Forest+Trading post": ["Tundra","Spices","ForestT","Trading postT"],
-	"Tundra+Citrus+Forest+Trading post": ["Tundra","Citrus","ForestT","Trading postT"],
-	"Tundra+Truffles+Forest+Trading post": ["Tundra","Truffles","ForestT","Trading postT"],
+	"Tundra+Forest+Trading post": ["Tundra","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Deer+Forest+Trading post": ["Tundra","Deer","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Stone+Forest+Trading post": ["Tundra","Stone","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Iron+Forest+Trading post": ["Tundra","Iron","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Oil+Forest+Trading post": ["Tundra","Oil","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Aluminum+Forest+Trading post": ["Tundra","Aluminum","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Uranium+Forest+Trading post": ["Tundra","Uranium","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Furs+Forest+Trading post": ["Tundra","FursT","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Silver+Forest+Trading post": ["Tundra","Silver","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Copper+Forest+Trading post": ["Tundra","Copper","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Salt+Forest+Trading post": ["Tundra","Salt","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Coal+Forest+Trading post": ["Tundra","Coal","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Dyes+Forest+Trading post": ["Tundra","Dyes","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Gems+Forest+Trading post": ["Tundra","Gems","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Gold Ore+Forest+Trading post": ["Tundra","Gold Ore","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Silk+Forest+Trading post": ["Tundra","Silk","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Spices+Forest+Trading post": ["Tundra","Spices","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Citrus+Forest+Trading post": ["Tundra","Citrus","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Truffles+Forest+Trading post": ["Tundra","Truffles","ForestT","Trading post"], // TODO: Restore "Trading postT"
 
-	"Tundra+Hill+Forest+Trading post": ["Tundra","Tundra Hill","ForestT","Trading postT"],
-	"Tundra+Hill+Deer+Forest+Trading post": ["Tundra","Tundra Hill","Deer","ForestT","Trading postT"],
-	"Tundra+Hill+Stone+Forest+Trading post": ["Tundra","Tundra Hill","Stone","ForestT","Trading postT"],
-	"Tundra+Hill+Iron+Forest+Trading post": ["Tundra","Tundra Hill","Iron","ForestT","Trading postT"],
-	"Tundra+Hill+Oil+Forest+Trading post": ["Tundra","Tundra Hill","Oil","ForestT","Trading postT"],
-	"Tundra+Hill+Aluminum+Forest+Trading post": ["Tundra","Tundra Hill","Aluminum","ForestT","Trading postT"],
-	"Tundra+Hill+Uranium+Forest+Trading post": ["Tundra","Tundra Hill","Uranium","ForestT","Trading postT"],
-	"Tundra+Hill+Furs+Forest+Trading post": ["Tundra","Tundra Hill","FursT","ForestT","Trading postT"],
-	"Tundra+Hill+Silver+Forest+Trading post": ["Tundra","Tundra Hill","Silver","ForestT","Trading postT"],
-	"Tundra+Hill+Copper+Forest+Trading post": ["Tundra","Tundra Hill","Copper","ForestT","Trading postT"],
-	"Tundra+Hill+Salt+Forest+Trading post": ["Tundra","Tundra Hill","Salt","ForestT","Trading postT"],
-	"Tundra+Hill+Coal+Forest+Trading post": ["Tundra","Tundra Hill","Coal","ForestT","Trading postT"],
-	"Tundra+Hill+Dyes+Forest+Trading post": ["Tundra","Tundra Hill","Dyes","ForestT","Trading postT"],
-	"Tundra+Hill+Gems+Forest+Trading post": ["Tundra","Tundra Hill","Gems","ForestT","Trading postT"],
-	"Tundra+Hill+Gold Ore+Forest+Trading post": ["Tundra","Tundra Hill","Gold Ore","ForestT","Trading postT"],
-	"Tundra+Hill+Silk+Forest+Trading post": ["Tundra","Tundra Hill","Silk","ForestT","Trading postT"],
-	"Tundra+Hill+Spices+Forest+Trading post": ["Tundra","Tundra Hill","Spices","ForestT","Trading postT"],
-	"Tundra+Hill+Citrus+Forest+Trading post": ["Tundra","Tundra Hill","Citrus","ForestT","Trading postT"],
-	"Tundra+Hill+Truffles+Forest+Trading post": ["Tundra","Tundra Hill","Truffles","ForestT","Trading postT"],
-	"Tundra+Hill+Sheep+Forest+Trading post": ["Tundra","Tundra Hill","Sheep","ForestT","Trading postT"],
-	"Tundra+Hill+Horses+Forest+Trading post": ["Tundra","Tundra Hill","Horses","ForestT","Trading postT"],
+	"Tundra+Hill+Forest+Trading post": ["Tundra","Tundra Hill","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Deer+Forest+Trading post": ["Tundra","Tundra Hill","Deer","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Stone+Forest+Trading post": ["Tundra","Tundra Hill","Stone","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Iron+Forest+Trading post": ["Tundra","Tundra Hill","Iron","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Oil+Forest+Trading post": ["Tundra","Tundra Hill","Oil","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Aluminum+Forest+Trading post": ["Tundra","Tundra Hill","Aluminum","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Uranium+Forest+Trading post": ["Tundra","Tundra Hill","Uranium","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Furs+Forest+Trading post": ["Tundra","Tundra Hill","FursT","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Silver+Forest+Trading post": ["Tundra","Tundra Hill","Silver","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Copper+Forest+Trading post": ["Tundra","Tundra Hill","Copper","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Salt+Forest+Trading post": ["Tundra","Tundra Hill","Salt","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Coal+Forest+Trading post": ["Tundra","Tundra Hill","Coal","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Dyes+Forest+Trading post": ["Tundra","Tundra Hill","Dyes","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Gems+Forest+Trading post": ["Tundra","Tundra Hill","Gems","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Gold Ore+Forest+Trading post": ["Tundra","Tundra Hill","Gold Ore","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Silk+Forest+Trading post": ["Tundra","Tundra Hill","Silk","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Spices+Forest+Trading post": ["Tundra","Tundra Hill","Spices","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Citrus+Forest+Trading post": ["Tundra","Tundra Hill","Citrus","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Truffles+Forest+Trading post": ["Tundra","Tundra Hill","Truffles","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Sheep+Forest+Trading post": ["Tundra","Tundra Hill","Sheep","ForestT","Trading post"], // TODO: Restore "Trading postT"
+	"Tundra+Hill+Horses+Forest+Trading post": ["Tundra","Tundra Hill","Horses","ForestT","Trading post"], // TODO: Restore "Trading postT"
 
 	//Lumbermill
 	"Grassland+Forest+Lumber mill": ["Grassland","ForestTUp","Lumber mill"],
